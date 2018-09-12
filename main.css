@@ -166,7 +166,7 @@ input{
 }
 .register_form{
     position: absolute;
-    top: 150px;
+    top: 550px;
     left: 60px;
     border-bottom: #98b880;
 }
@@ -221,5 +221,21 @@ input{
     right: 0;
     background-color: white;
     height: 100px;
-
 }
+.login_form{
+    position: absolute;
+    top: 150px;
+    left: 60px;
+    border-bottom: #98b880;
+}
+.login_form label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: grey;
+}
+.login_form input{
+    border: 5px solid #ddd;
+    border-radius: 3px;
+    background-color: white;
+}
+

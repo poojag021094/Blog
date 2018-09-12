@@ -166,8 +166,8 @@ input{
 }
 .register_form{
     position: absolute;
-    top: 560px;
-    left: 70px;
+    top: 150px;
+    left: 60px;
     border-bottom: #98b880;
 }
 .register_form label{
@@ -182,7 +182,7 @@ input{
 }
 .btn{
     position: absolute;
-    top:100px;
+    top:130px;
     left:240px;
    
 }
